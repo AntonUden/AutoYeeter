@@ -1,0 +1,23 @@
+{
+  "name": "autoyeeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node dist/app.js"
+  },
+  "author": "Zeeraa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.27",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "console-stamp": "^3.1.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}

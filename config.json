@@ -1,0 +1,18 @@
+{
+    "ban_message": "You where automatically banned from NovaUniverse because your message indicates that you might be a spam bot. If you belive this was a mistake please contact @zeeraa01 or @woltry and we will get you unbanned",
+    "banned_keywords": [
+        "im a bot please ban me",
+        "uwu I'm a bot"
+    ],
+    "combo_rule_sets": [
+        [
+            [
+                "join my discord server",
+                "this is a test"
+            ],
+            [
+                "https://discord.gg"
+            ]
+        ]
+    ]
+}

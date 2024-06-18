@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "console-stamp": "^3.1.2",
-    "discord.js": "^14.14.1",
+    "discord.js": "^14.15.3",
     "dotenv": "^16.4.5"
   }
 }
